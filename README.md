@@ -51,3 +51,8 @@ pip install numpy pandas scikit-learn nltk transformers
 
 🧑‍💻 Usage
 Each file is designed to be run independently to demonstrate a specific concept.
+# Example: Run the tokenization script
+python twinkle.py```
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
