@@ -69,7 +69,7 @@ source venv/bin/activate
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YourUsername/Generative-AI.git
+git clone https://github.com/anask5/Generative-AI.git
 cd Generative-AI
 pip install numpy pandas scikit-learn nltk transformers
 ```
